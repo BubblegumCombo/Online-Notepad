@@ -48,7 +48,7 @@
 
                 if (mysqli_num_rows($result) > 0) {
 
-                    $error = "That email address is taken.";
+                    $error = "That email address is taken!";
 
                 } else {
 
