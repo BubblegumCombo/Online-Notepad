@@ -24,13 +24,13 @@
         
         if (!$_POST['email']) {
             
-            $error .= "An email address is required<br>";
+            $error .= "An email address is required!!<br>";
             
         } 
         
         if (!$_POST['password']) {
             
-            $error .= "A password is required<br>";
+            $error .= "A password is required!<br>";
             
         } 
         
